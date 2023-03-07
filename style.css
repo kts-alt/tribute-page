@@ -1,0 +1,54 @@
+body {
+    font-family: fantasy;
+    font-size: 18px;
+    text-align: center;
+}
+  
+#main {
+    background-color: #BFBFBD;
+}
+  
+h1 {
+    padding-top: 40px;
+    font-size: 3em;
+}
+  
+h2 {
+    padding-top: 15px;
+}
+  
+#tribute-info {
+    background-color: #CE2029;
+}
+  
+.char-profile {
+    color: white;
+    background-color: black;
+    padding-top: 1px;
+}
+  
+.char-list {
+    list-style-type: none;
+}
+  
+#red-cloud {
+    width: 100px;
+    height: auto;
+    border-radius: 30px;
+}
+  
+#image {
+    margin: auto;
+    display: block;
+    width: 100%;
+    height: auto;
+}
+  
+#img-caption {
+    padding-top: 15px;
+}
+  
+img {
+    width: 25%;
+    height: auto;
+}
